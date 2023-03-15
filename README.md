@@ -12,7 +12,9 @@ As for smaller project like this, using GORM is adequate.
 # .env-template
 
 DB_USER=alikhan
+
 DB_PASSWORD=alikhan
+
 DB_NAME=redirects
 
 # some details
